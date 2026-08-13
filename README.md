@@ -121,5 +121,5 @@ Hi there! I’m Mouad Fikri, a Data Analyst passionate about turning raw numbers
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![Instagram]([https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white](https://icons8.com/icon/Xy10Jcu1L2Su/instagram))]([http://bit.ly/3GiCVUE](https://www.instagram.com/mouadfikri2/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/baraa-khatib-salkini](https://www.linkedin.com/in/mouadfikri/))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mouadfikri2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouadfikri/)
